@@ -2,7 +2,7 @@
 
 Este repositório contém um gerenciamento integrado de docentes e matrizes curriculares. A solução permite operações CRUD completas, associação dinâmica entre entidades e consultas estruturadas, desenvolvida com Express.js  e persistência de dados em MongoDB.
 
-## Comandos Executados e Saídas
+## Entradas Executáveis e as Respostas
 
 ### Criar os Professores
 
